@@ -1,0 +1,10 @@
+openai
+langchain
+langchain-openai
+langchain_community
+langserve
+sse_starlette
+langchain-chroma
+Flask
+flask-cors
+aws-wsgi
